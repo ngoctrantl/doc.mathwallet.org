@@ -28,3 +28,7 @@ Q: 如何让 DAPP 在麦子钱包中【全屏】打开？
 
 在 DAPP 页面上调用 math-js-sdk: [https://github.com/MediShares/math-js-sdk](https://github.com/MediShares/math-js-sdk) 的 fullScreen(1) 方法。
 同时建议您在 DAPP 上加入退出全屏或退出按钮，并调用 math-js-sdk 的 fullScreen(0) 和 close() 方法。
+
+Q: 如何通过钱包接口获取用户手机的 Device ID？
+
+在 DAPP 页面上调用 math-js-sdk: [https://github.com/MediShares/math-js-sdk](https://github.com/MediShares/math-js-sdk) 的 getAppInfo() 方法，在返回值中获取 deviceId 即可。

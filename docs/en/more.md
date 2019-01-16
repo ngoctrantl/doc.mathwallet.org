@@ -29,3 +29,7 @@ Q. How to open a dApp in full screen mode?
 
 You can use math-js-sdk: [https://github.com/MediShares/math-js-sdk](https://github.com/MediShares/math-js-sdk), issue the fullScreen(1) function.
 And we suggest you add a 'Close' button in your dApp, which need to issue fullScreen(0) or close() function.
+
+Q. How to get DeviceID through Math SDK?
+
+You can use math-js-sdk: [https://github.com/MediShares/math-js-sdk](https://github.com/MediShares/math-js-sdk), issue the getAppInfo() function.
