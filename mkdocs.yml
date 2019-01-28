@@ -21,6 +21,8 @@ pages:
         - NEO: cn/neo.md
         - EOS原力: cn/eosforce.md
         - BOS: cn/bos.md
+        - Telos: cn/telos.md
+        - ENU: cn/enu.md
         - 更多问题: cn/more.md
     - English:
         - EOS: en/eos.md
@@ -31,6 +33,8 @@ pages:
         - NEO: en/neo.md
         - EOSForce: en/eosforce.md
         - BOS: en/bos.md
+        - Telos: en/telos.md
+        - ENU: en/enu.md
         - More: en/more.md
 
 plugins:

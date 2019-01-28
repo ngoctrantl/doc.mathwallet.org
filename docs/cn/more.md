@@ -32,3 +32,29 @@ Q: 如何让 DAPP 在麦子钱包中【全屏】打开？
 Q: 如何通过钱包接口获取用户手机的 Device ID？
 
 在 DAPP 页面上调用 math-js-sdk: [https://github.com/MediShares/math-js-sdk](https://github.com/MediShares/math-js-sdk) 的 getAppInfo() 方法，在返回值中获取 deviceId 即可。
+
+Q: DAPP 怎样获取钱包DAPP浏览器语言？
+
+示例代码如下：
+
+```
+/**
+ * 获取浏览器语言类型
+ * @return {string} 浏览器国家语言
+ */
+var getNavLanguage = function(){
+  navLanguage = (navigator.language || navigator.browserLanguage ).toLowerCase();
+  switch(navLanguage)
+  {
+  case 'zh-cn' || 'zh-tw' || 'zh-hk':
+    navLanguage = 'cn';
+    break;
+  case 'ko':
+    navLanguage = 'ko'
+    break;
+  default:
+    navLanguage = 'en';
+  }
+  return navLanguage;
+}
+```

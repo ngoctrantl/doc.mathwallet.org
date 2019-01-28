@@ -33,3 +33,28 @@ And we suggest you add a 'Close' button in your dApp, which need to issue fullSc
 Q. How to get DeviceID through Math SDK?
 
 You can use math-js-sdk: [https://github.com/MediShares/math-js-sdk](https://github.com/MediShares/math-js-sdk), issue the getAppInfo() function.
+
+Q. How to get the current language in the dApp?
+
+Sample code below:
+
+```
+/**
+ * @return {string} country code: cn / ko / en
+ */
+var getNavLanguage = function(){
+  navLanguage = (navigator.language || navigator.browserLanguage ).toLowerCase();
+  switch(navLanguage)
+  {
+  case 'zh-cn' || 'zh-tw' || 'zh-hk':
+    navLanguage = 'cn';
+    break;
+  case 'ko':
+    navLanguage = 'ko'
+    break;
+  default:
+    navLanguage = 'en';
+  }
+  return navLanguage;
+}
+```
