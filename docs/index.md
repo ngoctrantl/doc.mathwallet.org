@@ -4,7 +4,7 @@
 
 请点击【中文】菜单，然后选择你正在开发的公链，查看详细文档。
 
-如果您的 DAPP 已经开发完成，请通过这个链接提交给我们：[https://m.mathwallet.net/submit/dapp](https://m.mathwallet.net/submit/dapp)
+如果您的 DAPP 已经开发完成，请通过这个链接提交给我们：[https://m.maiziqianbao.net/submit/dapp](https://m.maiziqianbao.net/submit/dapp)
 
 # Getting Started
 
@@ -12,7 +12,7 @@ Math Wallet is the most powerful and secure universal crypto wallet that enables
 
 Please Click 'English' and choose the chain which we are developing to start.
 
-Submit your dApp to us: [https://m.mathwallet.net/submit/dapp](https://m.mathwallet.net/submit/dapp)
+Submit your dApp to us: [https://m.maiziqianbao.net/submit/dapp](https://m.maiziqianbao.net/submit/dapp)
 
 # 시작하기
 
