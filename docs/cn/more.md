@@ -6,11 +6,11 @@ useragent 里面如果有 MdsApp，表示是麦子钱包的浏览器访问
 
 ### Q: 如何在 DAPP 页面获取钱包信息、全屏、打开微信、横屏、当前语言等信息和操作？
 
-可以通过 math-js-sdk: [https://github.com/MediShares/math-js-sdk](https://github.com/MediShares/math-js-sdk)
+可以通过 math-js-sdk: [https://github.com/mathwallet/math-js-sdk](https://github.com/mathwallet/math-js-sdk)
 
 ### Q: 如何在麦子钱包中调试 DAPP？
 
-麦子钱包提供DAPP浏览器和手机端调试工具，具体调试方法查看：[http://blog.medishares.org/?p=1248](http://blog.medishares.org/?p=1248)
+麦子钱包提供DAPP浏览器和手机端调试工具，具体调试方法查看：[http://blog.mathwallet.net/?p=1248](http://blog.mathwallet.net/?p=1248)
 
 ### Q: 如何在麦子钱包是否支持测试链？
 
@@ -22,16 +22,16 @@ useragent 里面如果有 MdsApp，表示是麦子钱包的浏览器访问
 
 1 由麦子钱包配置该 DAPP 横屏打开，只需要联系麦子钱包团队即可
 
-2 在 DAPP 页面上调用 math-js-sdk: [https://github.com/MediShares/math-js-sdk](https://github.com/MediShares/math-js-sdk) 的 orientation 方法
+2 在 DAPP 页面上调用 math-js-sdk: [https://github.com/mathwallet/math-js-sdk](https://github.com/mathwallet/math-js-sdk) 的 orientation 方法
 
 ### Q: 如何让 DAPP 在麦子钱包中【全屏】打开？
 
-在 DAPP 页面上调用 math-js-sdk: [https://github.com/MediShares/math-js-sdk](https://github.com/MediShares/math-js-sdk) 的 fullScreen(1) 方法。
+在 DAPP 页面上调用 math-js-sdk: [https://github.com/mathwallet/math-js-sdk](https://github.com/mathwallet/math-js-sdk) 的 fullScreen(1) 方法。
 同时建议您在 DAPP 上加入退出全屏或退出按钮，并调用 math-js-sdk 的 fullScreen(0) 和 close() 方法。
 
 ### Q: 如何通过钱包接口获取用户手机的 Device ID？
 
-在 DAPP 页面上调用 math-js-sdk: [https://github.com/MediShares/math-js-sdk](https://github.com/MediShares/math-js-sdk) 的 getAppInfo() 方法，在返回值中获取 deviceId 即可。
+在 DAPP 页面上调用 math-js-sdk: [https://github.com/mathwallet/math-js-sdk](https://github.com/mathwallet/math-js-sdk) 的 getAppInfo() 方法，在返回值中获取 deviceId 即可。
 
 ### Q: DAPP 怎样获取钱包DAPP浏览器语言？
 

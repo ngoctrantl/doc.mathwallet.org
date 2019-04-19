@@ -36,7 +36,7 @@ Q: 钱包和PC端引入的 scatter.js 文件需要区分一下吗？
 
 Q: 如何在 DAPP 页面获取钱包信息、全屏、打开微信、横屏、当前语言等信息和操作？
 
-可以通过 math-js-sdk: [https://github.com/MediShares/math-js-sdk](https://github.com/MediShares/math-js-sdk)
+可以通过 math-js-sdk: [https://github.com/mathwallet/math-js-sdk](https://github.com/mathwallet/math-js-sdk)
 
 # Native DAPP 开发
 
@@ -50,7 +50,7 @@ Native APP 跳转麦子钱包支付或合约签名。
 
 协议标准请查看：
 
-[https://github.com/MediShares/SimpleWallet](https://github.com/MediShares/SimpleWallet)
+[https://github.com/mathwallet/SimpleWallet](https://github.com/mathwallet/SimpleWallet)
 
 注意：transferReq.blockchain 参数请传 eosio
 
@@ -58,9 +58,9 @@ Native APP 跳转麦子钱包支付或合约签名。
 
 麦子钱包团队开发了一套APP端调起麦子钱包进行支付的示例代码：
 
-iOS – [https://github.com/MediShares/MathWalletSDK-iOS](https://github.com/MediShares/MathWalletSDK-iOS)
+iOS – [https://github.com/mathwallet/MathWalletSDK-iOS](https://github.com/mathwallet/MathWalletSDK-iOS)
 
-Android – [https://github.com/MediShares/MathWalletSDK-Android](https://github.com/MediShares/MathWalletSDK-Android)
+Android – [https://github.com/mathwallet/MathWalletSDK-Android](https://github.com/mathwallet/MathWalletSDK-Android)
 
 ### 使用 SimpleWallet 接口的应用
 
@@ -72,13 +72,13 @@ Android – [https://github.com/MediShares/MathWalletSDK-Android](https://github
 
 支持手机浏览器网页通过链接的形式打开麦子钱包进行支付和合约签名。接口基于 SimpleWallet 协议麦子拓展版本：
 
-[https://github.com/MediShares/SimpleWallet](https://github.com/MediShares/SimpleWallet)
+[https://github.com/mathwallet/SimpleWallet](https://github.com/mathwallet/SimpleWallet)
 
 示例DEMO和代码：
 
 [http://developer.mathwallet.org/sample12/](http://developer.mathwallet.org/sample12/)
 
-[https://github.com/MediShares/mds-eosjs/tree/master/eos/sample12](https://github.com/MediShares/mds-eosjs/tree/master/eos/sample12)
+[https://github.com/mathwallet/math-eosjs/tree/master/eos/sample12](https://github.com/mathwallet/math-eosjs/tree/master/eos/sample12)
 
 # 钱包扫码登录和支付
 
@@ -86,6 +86,6 @@ Android – [https://github.com/MediShares/MathWalletSDK-Android](https://github
 
 协议标准请查看：
 
-[https://github.com/MediShares/SimpleWallet](https://github.com/MediShares/SimpleWallet)
+[https://github.com/mathwallet/SimpleWallet](https://github.com/mathwallet/SimpleWallet)
 
 目前 Newdex 网页版已经使用该接口进行扫码登录。

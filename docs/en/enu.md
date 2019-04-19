@@ -22,4 +22,4 @@ Sample project for EOS newbie
 
 Q. How to get more current wallet information, such as orientation / language / fullscreen, etc?
 
-A. We will need math-js-sdk: [https://github.com/MediShares/math-js-sdk](https://github.com/MediShares/math-js-sdk)
+A. We will need math-js-sdk: [https://github.com/mathwallet/math-js-sdk](https://github.com/mathwallet/math-js-sdk)

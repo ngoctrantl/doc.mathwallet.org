@@ -26,7 +26,7 @@ Native APP 跳转麦子钱包支付或合约签名。
 
 协议标准请查看：
 
-[https://github.com/MediShares/SimpleWallet](https://github.com/MediShares/SimpleWallet)
+[https://github.com/mathwallet/SimpleWallet](https://github.com/mathwallet/SimpleWallet)
 
 注意：transferReq.blockchain 参数请传 ont
 
@@ -34,18 +34,18 @@ Native APP 跳转麦子钱包支付或合约签名。
 
 麦子钱包团队开发了一套APP端调起麦子钱包进行支付的示例代码：
 
-iOS – [https://github.com/MediShares/MathWalletSDK-iOS](https://github.com/MediShares/MathWalletSDK-iOS)
+iOS – [https://github.com/mathwallet/MathWalletSDK-iOS](https://github.com/mathwallet/MathWalletSDK-iOS)
 
-Android – [https://github.com/MediShares/MathWalletSDK-Android](https://github.com/MediShares/MathWalletSDK-Android)
+Android – [https://github.com/mathwallet/MathWalletSDK-Android](https://github.com/mathwallet/MathWalletSDK-Android)
 
 # 网页 DAPP 打开麦子钱包支付
 
 支持手机浏览器网页通过链接的形式打开麦子钱包进行支付和合约签名。接口基于 SimpleWallet 协议麦子拓展版本：
 
-[https://github.com/MediShares/SimpleWallet](https://github.com/MediShares/SimpleWallet)
+[https://github.com/mathwallet/SimpleWallet](https://github.com/mathwallet/SimpleWallet)
 
 示例DEMO和代码：
 
 [http://developer.mathwallet.org/sample12/](http://developer.mathwallet.org/sample12/)
 
-[https://github.com/MediShares/mds-eosjs/tree/master/eos/sample12](https://github.com/MediShares/mds-eosjs/tree/master/eos/sample12)
+[https://github.com/mathwallet/math-eosjs/tree/master/eos/sample12](https://github.com/mathwallet/math-eosjs/tree/master/eos/sample12)

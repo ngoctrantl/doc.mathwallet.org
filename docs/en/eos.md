@@ -36,7 +36,7 @@ A. No, just use 'scatter.min.js'. PC side could run first and then put into Math
 
 Q. How to get more current wallet information, such as orientation / language / fullscreen, etc?
 
-A. We will need math-js-sdk: [https://github.com/MediShares/math-js-sdk](https://github.com/MediShares/math-js-sdk)
+A. We will need math-js-sdk: [https://github.com/mathwallet/math-js-sdk](https://github.com/mathwallet/math-js-sdk)
 
 # Native dApp Development
 
@@ -52,7 +52,7 @@ This protocol is already used by EOS Knight, Newdex, WhaleEX etc.
 
 To use this API, please read the API doc:
 
-[https://github.com/MediShares/SimpleWallet](https://github.com/MediShares/SimpleWallet)
+[https://github.com/mathwallet/SimpleWallet](https://github.com/mathwallet/SimpleWallet)
 
 Note: transferReq.blockchain please use 'eosio'
 
@@ -60,9 +60,9 @@ Note: transferReq.blockchain please use 'eosio'
 
 SDK example developed by Math Wallet team:
 
-iOS – [https://github.com/MediShares/MathWalletSDK-iOS](https://github.com/MediShares/MathWalletSDK-iOS)
+iOS – [https://github.com/mathwallet/MathWalletSDK-iOS](https://github.com/mathwallet/MathWalletSDK-iOS)
 
-Android – [https://github.com/MediShares/MathWalletSDK-Android](https://github.com/MediShares/MathWalletSDK-Android)
+Android – [https://github.com/mathwallet/MathWalletSDK-Android](https://github.com/mathwallet/MathWalletSDK-Android)
 
 ### dApps using SimpleWallet API
 
@@ -76,13 +76,13 @@ Web dApp within mobile browser can open MathWallet to sign your transaction in a
 
 The format is also based on SimpleWallet Protocol MathWallet version:
 
-[https://github.com/MediShares/SimpleWallet](https://github.com/MediShares/SimpleWallet)
+[https://github.com/mathwallet/SimpleWallet](https://github.com/mathwallet/SimpleWallet)
 
 Demo & Sample Code：
 
 [http://developer.mathwallet.org/sample12/](http://developer.mathwallet.org/sample12/)
 
-[https://github.com/MediShares/mds-eosjs/tree/master/eos/sample12](https://github.com/MediShares/mds-eosjs/tree/master/eos/sample12)
+[https://github.com/mathwallet/math-eosjs/tree/master/eos/sample12](https://github.com/mathwallet/math-eosjs/tree/master/eos/sample12)
 
 # Scan QRCode API
 
@@ -90,6 +90,6 @@ MathWallet supports scan QRcode to login and sign transaction based on SimpleWal
 
 To use this API, please read the API doc:
 
-[https://github.com/MediShares/SimpleWallet](https://github.com/MediShares/SimpleWallet)
+[https://github.com/mathwallet/SimpleWallet](https://github.com/mathwallet/SimpleWallet)
 
 Newdex web version is using this API for login.

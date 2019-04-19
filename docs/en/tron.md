@@ -12,7 +12,7 @@ MathWallet has supported TronWeb (web3) API same as tronlink or tronpay.
 
 ### Tron DAPP Demo Projects
 
-[https://github.com/MediShares/mds-trxjs](https://github.com/MediShares/mds-trxjs)
+[https://github.com/mathwallet/math-trxjs](https://github.com/mathwallet/math-trxjs)
 
 [https://github.com/kookiekrak/TronLink-Demo-Messages](https://github.com/kookiekrak/TronLink-Demo-Messages)
 
@@ -34,7 +34,7 @@ Native APP can open MathWallet to sign your transaction.
 
 To use this API, please read the API doc:
 
-[https://github.com/MediShares/SimpleWallet](https://github.com/MediShares/SimpleWallet)
+[https://github.com/mathwallet/SimpleWallet](https://github.com/mathwallet/SimpleWallet)
 
 Note: transferReq.blockchain please use 'tron'
 
@@ -42,9 +42,9 @@ Note: transferReq.blockchain please use 'tron'
 
 SDK example developed by Math Wallet team:
 
-iOS – [https://github.com/MediShares/MathWalletSDK-iOS](https://github.com/MediShares/MathWalletSDK-iOS)
+iOS – [https://github.com/mathwallet/MathWalletSDK-iOS](https://github.com/mathwallet/MathWalletSDK-iOS)
 
-Android – [https://github.com/MediShares/MathWalletSDK-Android](https://github.com/MediShares/MathWalletSDK-Android)
+Android – [https://github.com/mathwallet/MathWalletSDK-Android](https://github.com/mathwallet/MathWalletSDK-Android)
 
 # Web dApp Development
 
@@ -52,11 +52,11 @@ Web dApp within mobile browser can open MathWallet to sign your transaction in a
 
 The format is also based on SimpleWallet Protocol MathWallet version:
 
-[https://github.com/MediShares/SimpleWallet](https://github.com/MediShares/SimpleWallet)
+[https://github.com/mathwallet/SimpleWallet](https://github.com/mathwallet/SimpleWallet)
 
 Demo & Sample Code：
 
 [http://developer.mathwallet.org/sample12/](http://developer.mathwallet.org/sample12/)
 
-[https://github.com/MediShares/mds-eosjs/tree/master/eos/sample12](https://github.com/MediShares/mds-eosjs/tree/master/eos/sample12)
+[https://github.com/mathwallet/math-eosjs/tree/master/eos/sample12](https://github.com/mathwallet/math-eosjs/tree/master/eos/sample12)
 

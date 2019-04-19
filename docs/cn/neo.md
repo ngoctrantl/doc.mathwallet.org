@@ -8,7 +8,7 @@ NEO DAPP 开发文档
 
 ### math-js-sdk 文档
 
-[https://github.com/MediShares/math-js-sdk](https://github.com/MediShares/math-js-sdk)
+[https://github.com/mathwallet/math-js-sdk](https://github.com/mathwallet/math-js-sdk)
 
 ```
 mathwallet.NEO.transfer(from, amount, to, memo).then(console.log);

@@ -8,7 +8,7 @@
 
 ### math-js-sdk 文档
 
-[https://github.com/MediShares/math-js-sdk](https://github.com/MediShares/math-js-sdk)
+[https://github.com/mathwallet/math-js-sdk](https://github.com/mathwallet/math-js-sdk)
 
 ```
 mathwallet.BTC.transfer(from, amount, to, memo).then(console.log);
