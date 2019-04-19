@@ -38,16 +38,6 @@ Q. How to get more current wallet information, such as orientation / language / 
 
 A. We will need math-js-sdk: [https://github.com/MediShares/math-js-sdk](https://github.com/MediShares/math-js-sdk)
 
-## MDS-EOSJS API
-
-Developed based on jQuery, easy to pick up, only for Math Wallet.
-
-It is easy to use and the MathWallet team has provided the sample includes complete front-end part. (limited to MathWallet environment)
-
-Repo of API and sample:
-
-[https://github.com/MediShares/mds-eosjs](https://github.com/MediShares/mds-eosjs)
-
 # Native dApp Development
 
 ## SimpleWallet API

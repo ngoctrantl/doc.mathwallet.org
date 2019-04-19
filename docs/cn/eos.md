@@ -38,16 +38,6 @@ Q: 如何在 DAPP 页面获取钱包信息、全屏、打开微信、横屏、�
 
 可以通过 math-js-sdk: [https://github.com/MediShares/math-js-sdk](https://github.com/MediShares/math-js-sdk)
 
-## MDS-EOSJS API
-
-麦子钱包定制版 API，由麦子钱包团队基于 jQuery 开发。
-
-它的优点是学习成本很低，而且麦子团队的sample连前端页面都帮你做好了。当然它只能用于麦子钱包环境内。
-
-mds-eosjs 接口和sample可以查看下面的代码仓库，目前已经在麦子钱包上线的《小协议》《莫与一键发Token》《EOS 子弹消息》等都是基于这个API开发的
-
-[https://github.com/MediShares/mds-eosjs](https://github.com/MediShares/mds-eosjs)
-
 # Native DAPP 开发
 
 ## SimpleWallet 协议
