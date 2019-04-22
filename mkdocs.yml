@@ -16,6 +16,7 @@ pages:
         - EOS: cn/eos.md
         - ETH: cn/eth.md
         - TRON: cn/tron.md
+        - IRISnet: cn/iris.md
         - ONT: cn/ont.md
         - BTC: cn/btc.md
         - NEO: cn/neo.md
@@ -28,6 +29,7 @@ pages:
         - EOS: en/eos.md
         - ETH: en/eth.md
         - TRON: en/tron.md
+        - IRISnet: en/iris.md
         - ONT: en/ont.md
         - BTC: en/btc.md
         - NEO: en/neo.md

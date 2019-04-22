@@ -1,6 +1,6 @@
 NEO DAPP Development Document
 
-# In-Wallet Web dApp Development
+# Web dApp Development
 
 ## math-js-sdk
 

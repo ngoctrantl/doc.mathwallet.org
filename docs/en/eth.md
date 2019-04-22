@@ -1,6 +1,6 @@
 ETH DAPP Development Document
 
-# In-Wallet Web dApp Development
+# Web dApp Development
 
 ## Web3 API
 

@@ -1,6 +1,6 @@
 ENU DAPP 开发文档
 
-# 钱包内 H5 DAPP 开发
+# H5 DAPP 开发
 
 ## Ironman API（推荐）
 
