@@ -6,7 +6,7 @@ ENU DAPP 开发文档
 
 麦子钱包兼容基于 Ironman 接口开发的 DAPP，您只需要做一些移动端适配即可
 
-Ironman接口的优点是通用性好，除了移动端在麦子钱包内直接使用，桌面端可以配合Ironman Chrome浏览器使用，一套代码即可，另外开发时在桌面端比较容易调试。
+Ironman接口的优点是通用性好，除了移动端在麦子钱包内直接使用，桌面端可以配合 [MathWallet Chrome浏览器](https://chrome.google.com/webstore/detail/math-wallet/afbcbjpbpfadlkmhmclhkeeodmamcflc) 使用，一套代码即可，另外开发时在桌面端比较容易调试。
 
 ### Ironman API 官方文档
 

@@ -6,7 +6,7 @@ BOS DAPP Development Document
 
 Math Wallet is compatiable with Ironman API.
 
-Ironman is really universal that could not only be used with Chrome browser on desktop but also could be used directly inside mobile terminal such as Math Wallet with just one set of code. By the way, it would be much easier to debug on desktop during development.
+Ironman is really universal that could not only be used with [MathWallet Chrome Extension](https://chrome.google.com/webstore/detail/math-wallet/afbcbjpbpfadlkmhmclhkeeodmamcflc) on desktop but also could be used directly inside mobile terminal such as Math Wallet with just one set of code. By the way, it would be much easier to debug on desktop during development.
 
 ### Ironman API Official Doc
 

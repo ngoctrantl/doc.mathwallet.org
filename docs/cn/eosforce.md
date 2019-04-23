@@ -6,15 +6,15 @@ EOS原力 DAPP 开发文档
 
 麦子钱包兼容基于 Scatter 接口开发的 DAPP，您只需要做一些移动端适配即可
 
-Scatter接口的优点是通用性好，除了移动端在麦子钱包内直接使用，桌面端可以配合Scatter Chrome浏览器使用，一套代码即可，另外开发时在桌面端比较容易调试。
+Scatter接口的优点是通用性好，除了移动端在麦子钱包内直接使用，桌面端可以配合 [MathWallet Chrome浏览器](https://chrome.google.com/webstore/detail/math-wallet/afbcbjpbpfadlkmhmclhkeeodmamcflc) 使用，一套代码即可，另外开发时在桌面端比较容易调试。
 
 ### Scatter API 官方文档
 
-[https://get-scatter.com/docs/dev/getting-started](https://get-scatter.com/docs/dev/getting-started)
+[https://get-scatter.com/docs/setting-up-for-web-apps](https://get-scatter.com/docs/setting-up-for-web-apps)
 
 ### Scatter API 开发示例
 
-麦子钱包团队开发的 Scatter API 开发示例
+MediShares 团队开发的 Scatter API 开发示例
 
 [https://github.com/MediShares/scatter-eos-sample](https://github.com/MediShares/scatter-eos-sample)
 

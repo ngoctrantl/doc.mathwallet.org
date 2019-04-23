@@ -6,15 +6,15 @@ Telos DAPP Development Document
 
 Math Wallet is compatiable with Scatter API.
 
-Scatter is really universal that could not only be used with Chrome browser on desktop but also could be used directly inside mobile terminal such as Math Wallet with just one set of code. By the way, it would be much easier to debug on desktop during development.
+ScatterJS is really universal that could not only be used with [MathWallet Chrome Extension](https://chrome.google.com/webstore/detail/math-wallet/afbcbjpbpfadlkmhmclhkeeodmamcflc) on desktop but also could be used directly inside mobile terminal such as Math Wallet with just one set of code. By the way, it would be much easier to debug on desktop during development.
 
 ### Scatter API Official Doc
 
-[https://get-scatter.com/docs/dev/getting-started](https://get-scatter.com/docs/dev/getting-started)
+[https://get-scatter.com/docs/setting-up-for-web-apps](https://get-scatter.com/docs/setting-up-for-web-apps)
 
 ### Scatter API Demo Projects
 
-Scatter API Sample developed by Math Wallet Team
+Scatter API Sample developed by MediShares Team
 
 [https://github.com/MediShares/scatter-eos-sample](https://github.com/MediShares/scatter-eos-sample)
 
