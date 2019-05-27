@@ -16,6 +16,8 @@ pages:
         - EOS: cn/eos.md
         - ETH: cn/eth.md
         - TRON: cn/tron.md
+        - Binance: cn/binance.md
+        - Cosmos: cn/cosmos.md
         - IRISnet: cn/iris.md
         - ONT: cn/ont.md
         - BTC: cn/btc.md
@@ -29,6 +31,8 @@ pages:
         - EOS: en/eos.md
         - ETH: en/eth.md
         - TRON: en/tron.md
+        - Binance: en/binance.md
+        - Cosmos: en/cosmos.md
         - IRISnet: en/iris.md
         - ONT: en/ont.md
         - BTC: en/btc.md
