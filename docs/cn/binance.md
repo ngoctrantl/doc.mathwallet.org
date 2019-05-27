@@ -19,3 +19,11 @@ Binance DAPP 开发文档
 [http://developer.mathwallet.org/sample15/](http://developer.mathwallet.org/sample15/)
 
 [https://github.com/mathwallet/math-binancechainjs/tree/master/sample](https://github.com/mathwallet/math-binancechainjs/tree/master/sample)
+
+## 使用 WalletConnect 协议
+
+WalletConnect 允许网页应用通过 APP 扫码进行签名操作，具体开发文档如下
+
+[https://walletconnect.org/](https://walletconnect.org/)
+
+示例DEMO: [http://binance.org](http://binance.org)
