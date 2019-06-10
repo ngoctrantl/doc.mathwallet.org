@@ -60,3 +60,12 @@ Demo & Sample Code：
 
 [https://github.com/mathwallet/math-eosjs/tree/master/eos/sample12](https://github.com/mathwallet/math-eosjs/tree/master/eos/sample12)
 
+
+## WalletConnect Protocol
+
+WalletConnect is an open protocol for connecting desktop Dapps to mobile Wallets using end-to-end encryption by scanning a QR code.
+
+Document:
+[https://walletconnect.org/](https://walletconnect.org/)
+
+DEMO: [https://zerion.io](https://zerion.io)

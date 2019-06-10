@@ -56,3 +56,11 @@ Android – [https://github.com/mathwallet/MathWalletSDK-Android](https://github
 
 [https://github.com/mathwallet/math-eosjs/tree/master/eos/sample12](https://github.com/mathwallet/math-eosjs/tree/master/eos/sample12)
 
+
+## 使用 WalletConnect 协议
+
+WalletConnect 允许网页应用通过 APP 扫码进行签名操作，具体开发文档如下
+
+[https://walletconnect.org/](https://walletconnect.org/)
+
+示例DEMO: [https://zerion.io](https://zerion.io)
