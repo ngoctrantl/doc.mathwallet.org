@@ -45,3 +45,6 @@ pages:
 
 plugins:
     - search
+
+theme:
+  name: 'material'
