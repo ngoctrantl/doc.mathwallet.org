@@ -15,6 +15,7 @@ pages:
     - 中文:
         - EOS: cn/eos.md
         - ETH: cn/eth.md
+        - Polkadot: cn/polkadot.md
         - TRON: cn/tron.md
         - Binance: cn/binance.md
         - Cosmos: cn/cosmos.md
@@ -31,6 +32,7 @@ pages:
     - English:
         - EOS: en/eos.md
         - ETH: en/eth.md
+        - Polkadot: en/polkadot.md
         - TRON: en/tron.md
         - Binance: en/binance.md
         - Cosmos: en/cosmos.md
