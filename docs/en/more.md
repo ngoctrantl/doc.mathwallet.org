@@ -57,3 +57,13 @@ var getNavLanguage = function(){
   return navLanguage;
 }
 ```
+
+### Q. Does MathWallet support DeepLink?
+
+Yes. Sample URL below, change the dappUrl param as you need:
+
+```
+mathwallet://mathwallet.org?param={"action":"openUrl","protocol":"SimpleWallet","dappUrl":"https:\/\/gateway.eosdt.com\/","dappName":"MathWalletSDK-Demos","blockchain":"eosio","version":"1.0","callback":"mathwalletdemos:\/\/mathwalletsdk?action=openUrl","desc":"","dappIcon":""}
+```
+
+Currently Deeplink only supports Ethereum, EOS, EOS Force, TRON

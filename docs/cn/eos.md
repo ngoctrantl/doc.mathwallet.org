@@ -76,9 +76,17 @@ Android – [https://github.com/mathwallet/MathWalletSDK-Android](https://github
 
 示例DEMO和代码：
 
-[http://developer.mathwallet.org/sample12/](http://developer.mathwallet.org/sample12/)
+1 网页点击按钮，打开麦子钱包并支付
 
-[https://github.com/mathwallet/math-eosjs/tree/master/eos/sample12](https://github.com/mathwallet/math-eosjs/tree/master/eos/sample12)
+[http://developer.mathwallet.org/sample12/simple.html](http://developer.mathwallet.org/sample12/simple.html)
+
+[https://github.com/mathwallet/math-eosjs/blob/master/eos/sample12/simple.html](https://github.com/mathwallet/math-eosjs/blob/master/eos/sample12/simple.html)
+
+2 网页点击按钮，打开麦子钱包并跳转到 DAPP 页面
+
+[http://developer.mathwallet.org/sample12/openurl.html](http://developer.mathwallet.org/sample12/openurl.html)
+
+[https://github.com/mathwallet/math-eosjs/blob/master/eos/sample12/openurl.html](https://github.com/mathwallet/math-eosjs/blob/master/eos/sample12/openurl.html)
 
 # 钱包扫码登录和支付
 

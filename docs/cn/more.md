@@ -59,3 +59,12 @@ var getNavLanguage = function(){
 }
 ```
 
+### Q: 如何通过网页打开麦子钱包，并跳转到 DAPP 页面？
+
+你可以使用 Deeplink，示例URL代码如下，修改 dappUrl 为你希望跳转的地址即可：
+
+```
+mathwallet://mathwallet.org?param={"action":"openUrl","protocol":"SimpleWallet","dappUrl":"https:\/\/gateway.eosdt.com\/","dappName":"MathWalletSDK-Demos","blockchain":"eosio","version":"1.0","callback":"mathwalletdemos:\/\/mathwalletsdk?action=openUrl","desc":"","dappIcon":""}
+```
+
+目前 Deeplink 仅支持 Ethereum、EOS、EOS Force、TRON

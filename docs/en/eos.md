@@ -80,9 +80,17 @@ The format is also based on SimpleWallet Protocol MathWallet version:
 
 Demo & Sample Code：
 
-[http://developer.mathwallet.org/sample12/](http://developer.mathwallet.org/sample12/)
+1 Open MathWallet and pay EOS
 
-[https://github.com/mathwallet/math-eosjs/tree/master/eos/sample12](https://github.com/mathwallet/math-eosjs/tree/master/eos/sample12)
+[http://developer.mathwallet.org/sample12/simple.html](http://developer.mathwallet.org/sample12/simple.html)
+
+[https://github.com/mathwallet/math-eosjs/blob/master/eos/sample12/simple.html](https://github.com/mathwallet/math-eosjs/blob/master/eos/sample12/simple.html)
+
+2 Open MathWallet and goto dApp URL
+
+[http://developer.mathwallet.org/sample12/openurl.html](http://developer.mathwallet.org/sample12/openurl.html)
+
+[https://github.com/mathwallet/math-eosjs/blob/master/eos/sample12/openurl.html](https://github.com/mathwallet/math-eosjs/blob/master/eos/sample12/openurl.html)
 
 # Scan QRCode API
 
