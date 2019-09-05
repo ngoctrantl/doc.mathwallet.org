@@ -20,6 +20,7 @@ pages:
         - Binance: cn/binance.md
         - Cosmos: cn/cosmos.md
         - IRISnet: cn/iris.md
+        - Harmony: cn/harmony.md
         - ONT: cn/ont.md
         - ChainX: cn/chainx.md
         - BTC: cn/btc.md
@@ -38,6 +39,7 @@ pages:
         - Binance: en/binance.md
         - Cosmos: en/cosmos.md
         - IRISnet: en/iris.md
+        - Harmony: en/harmony.md
         - ONT: en/ont.md
         - ChainX: en/chainx.md
         - BTC: en/btc.md
