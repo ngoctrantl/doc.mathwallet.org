@@ -67,3 +67,11 @@ mathwallet://mathwallet.org?param={"action":"openUrl","protocol":"SimpleWallet",
 ```
 
 Currently Deeplink only supports Ethereum, EOS, EOS Force, TRON
+
+callback is the URL after MathWallet completed the transaction will open, such as：
+appABC://abc.com?action=openUrl&result=1
+
+result：0 cancel, 1 success, 2 fail
+
+If there is a transaction, it will add txID
+appABC://abc.com?action=openUrl&transfer=1&txID=xxx

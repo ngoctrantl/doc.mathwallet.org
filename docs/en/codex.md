@@ -1,7 +1,7 @@
-CODEX DAPP Development Document
+# CODEX DAPP Development Document
 
-# Web dApp Development
+## Web dApp Development
 
-## MathExtension API (Sign Transactions)
+### MathExtension API (Sign Transactions)
 
 [https://github.com/mathwallet/math-codexjs](https://github.com/mathwallet/math-codexjs)

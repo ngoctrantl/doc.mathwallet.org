@@ -12,44 +12,44 @@ copyright: Copyright &copy; 2018 MathWallet
 
 pages:
     - Home: index.md
-    - 中文:
-        - EOS: cn/eos.md
-        - ETH: cn/eth.md
-        - Polkadot: cn/polkadot.md
-        - TRON: cn/tron.md
-        - Binance: cn/binance.md
-        - Cosmos: cn/cosmos.md
-        - IRISnet: cn/iris.md
-        - Harmony: cn/harmony.md
-        - ONT: cn/ont.md
-        - ChainX: cn/chainx.md
-        - BTC: cn/btc.md
-        - NEO: cn/neo.md
-        - EOS原力: cn/eosforce.md
-        - CODEX: cn/codex.md
-        - BOS: cn/bos.md
-        - Telos: cn/telos.md
-        - ENU: cn/enu.md
-        - 更多问题: cn/more.md
     - English:
-        - EOS: en/eos.md
+        - BTC: en/btc.md
         - ETH: en/eth.md
+        - EOS: en/eos.md
         - Polkadot: en/polkadot.md
         - TRON: en/tron.md
         - Binance: en/binance.md
         - Cosmos: en/cosmos.md
         - IRISnet: en/iris.md
-        - Harmony: en/harmony.md
-        - ONT: en/ont.md
+        - Ontology: en/ont.md
         - ChainX: en/chainx.md
-        - BTC: en/btc.md
-        - NEO: en/neo.md
-        - EOSForce: en/eosforce.md
+        - EOSC: en/eosforce.md
+        - Harmony: en/harmony.md
         - CODEX: en/codex.md
+        - ENU: en/enu.md
         - BOS: en/bos.md
         - Telos: en/telos.md
-        - ENU: en/enu.md
+        - NEO: en/neo.md
         - More: en/more.md
+    - 中文:
+        - BTC: cn/btc.md
+        - ETH: cn/eth.md
+        - EOS: cn/eos.md
+        - Polkadot: cn/polkadot.md
+        - TRON: cn/tron.md
+        - Binance: cn/binance.md
+        - Cosmos: cn/cosmos.md
+        - IRISnet: cn/iris.md
+        - Ontology: cn/ont.md
+        - ChainX: cn/chainx.md
+        - EOSC: cn/eosforce.md
+        - Harmony: cn/harmony.md
+        - CODEX: cn/codex.md
+        - ENU: cn/enu.md
+        - BOS: cn/bos.md
+        - Telos: cn/telos.md
+        - NEO: cn/neo.md
+        - 更多问题: cn/more.md
 
 plugins:
     - search

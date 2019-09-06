@@ -64,7 +64,15 @@ var getNavLanguage = function(){
 你可以使用 Deeplink，示例URL代码如下，修改 dappUrl 为你希望跳转的地址即可：
 
 ```
-mathwallet://mathwallet.org?param={"action":"openUrl","protocol":"SimpleWallet","dappUrl":"https:\/\/gateway.eosdt.com\/","dappName":"MathWalletSDK-Demos","blockchain":"eosio","version":"1.0","callback":"mathwalletdemos:\/\/mathwalletsdk?action=openUrl","desc":"","dappIcon":""}
+mathwallet://mathwallet.org?param={"action":"openUrl","protocol":"SimpleWallet","dappUrl":"https:\/\/gateway.eosdt.com\/","dappName":"MathWalletSDK-Demos","blockchain":"eosio","version":"1.0","callback":"appABC:\/\/abc.com?action=openUrl","desc":"","dappIcon":""}
 ```
 
 目前 Deeplink 仅支持 Ethereum、EOS、EOS Force、TRON
+
+callback 会在支付成功后跳转并带上相应参数，例如：
+appABC://abc.com?action=openUrl&result=1
+
+result 的返回值：0 cancel, 1 success, 2 fail
+
+如果有交易，则会加上 txID
+appABC://abc.com?action=openUrl&transfer=1&txID=xxx

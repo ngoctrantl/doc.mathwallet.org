@@ -1,30 +1,30 @@
-TRON DAPP Development Document
+# TRON DAPP Development Document
 
-# Web dApp Development
+## Web dApp Development
 
-## TronWeb API
+### TronWeb API
 
 MathWallet has supported TronWeb (web3) API same as tronlink or tronpay.
 
-### TronWeb API official document
+#### TronWeb API official document
 
 [https://github.com/TronWatch/TronWeb](https://github.com/TronWatch/TronWeb)
 
-### Tron DAPP Demo Projects
+#### Tron DAPP Demo Projects
 
 [https://github.com/mathwallet/math-trxjs](https://github.com/mathwallet/math-trxjs)
 
 [https://github.com/kookiekrak/TronLink-Demo-Messages](https://github.com/kookiekrak/TronLink-Demo-Messages)
 
-### dApps using TronWeb API
+#### dApps using TronWeb API
 
 [TronBet](https://www.tronbet.io)
 
 [TRX Market](http://trx.market)
 
-# Native dApp Development
+## Native dApp Development
 
-## SimpleWallet API
+### SimpleWallet API
 
 If your DAPP is based on native development or browser based, you could open MathWallet to sign your transaction through SimpleWallet protocol or use Math Wallet to scan and authorize.
 
@@ -38,7 +38,7 @@ To use this API, please read the API doc:
 
 Note: transferReq.blockchain please use 'tron'
 
-### SimpleWallet API Demo Projects
+#### SimpleWallet API Demo Projects
 
 SDK example developed by Math Wallet team:
 
@@ -46,7 +46,7 @@ iOS – [https://github.com/mathwallet/MathWalletSDK-iOS](https://github.com/mat
 
 Android – [https://github.com/mathwallet/MathWalletSDK-Android](https://github.com/mathwallet/MathWalletSDK-Android)
 
-# Web dApp Development
+## Web dApp Development
 
 Web dApp within mobile browser can open MathWallet to sign your transaction in a link format.
 

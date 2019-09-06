@@ -1,18 +1,18 @@
-EOS DAPP Development Document
+# EOS DAPP Development Document
 
-# Web dApp Development
+## Web dApp Development
 
-## Scatter API
+### Scatter API
 
 Math Wallet is compatiable with Scatter API.
 
 ScatterJS is really universal that could not only be used with [MathWallet Chrome Extension](https://chrome.google.com/webstore/detail/math-wallet/afbcbjpbpfadlkmhmclhkeeodmamcflc) on desktop but also could be used directly inside mobile terminal such as Math Wallet with just one set of code. By the way, it would be much easier to debug on desktop during development.
 
-### Scatter API Official Doc
+#### Scatter API Official Doc
 
 [https://get-scatter.com/docs/setting-up-for-web-apps](https://get-scatter.com/docs/setting-up-for-web-apps)
 
-### Scatter API Demo Projects
+#### Scatter API Demo Projects
 
 Scatter API Sample developed by MediShares Team
 
@@ -22,13 +22,13 @@ Sample project for EOS newbie
 
 [https://github.com/ericfish/EOS-Dev-Book](https://github.com/ericfish/EOS-Dev-Book)
 
-### dApps using Scatter API
+#### dApps using Scatter API
 
 [DICE](https://betdice.one)
 
 [Chintai](https://eos.chintai.io)
 
-### Scatter API QA
+#### Scatter API QA
 
 Q. Is it neccessary to distinguish the sactter.js file from wallet or PC side?
 
@@ -38,9 +38,9 @@ Q. How to get more current wallet information, such as orientation / language / 
 
 A. We will need math-js-sdk: [https://github.com/mathwallet/math-js-sdk](https://github.com/mathwallet/math-js-sdk)
 
-# Native dApp Development
+## Native dApp Development
 
-## SimpleWallet API
+### SimpleWallet API
 
 If your DAPP is based on native development or browser based, you could open MathWallet to sign your transaction through SimpleWallet protocol or use Math Wallet to scan and authorize.
 
@@ -56,7 +56,7 @@ To use this API, please read the API doc:
 
 Note: transferReq.blockchain please use 'eosio'
 
-### SimpleWallet API Demo Projects
+#### SimpleWallet API Demo Projects
 
 SDK example developed by Math Wallet team:
 
@@ -64,13 +64,13 @@ iOS – [https://github.com/mathwallet/MathWalletSDK-iOS](https://github.com/mat
 
 Android – [https://github.com/mathwallet/MathWalletSDK-Android](https://github.com/mathwallet/MathWalletSDK-Android)
 
-### dApps using SimpleWallet API
+#### dApps using SimpleWallet API
 
 [EOS Knights](http://eosknights.io)
 
 [WhaleEX](https://whaleex.com)
 
-# Web dApp Development
+## Web dApp Development
 
 Web dApp within mobile browser can open MathWallet to sign your transaction in a link format.
 
@@ -92,7 +92,7 @@ Demo & Sample Code：
 
 [https://github.com/mathwallet/math-eosjs/blob/master/eos/sample12/openurl.html](https://github.com/mathwallet/math-eosjs/blob/master/eos/sample12/openurl.html)
 
-# Scan QRCode API
+## Scan QRCode API
 
 MathWallet supports scan QRcode to login and sign transaction based on SimpleWallet protocol.
 

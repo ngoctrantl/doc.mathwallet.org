@@ -1,7 +1,7 @@
-ChainX DAPP Development Document
+# ChainX DAPP Development Document
 
-# Web dApp Development
+## Web dApp Development
 
-## MathExtension API (Sign Transactions)
+### MathExtension API (Sign Transactions)
 
 [https://github.com/mathwallet/math-chainxjs](https://github.com/mathwallet/math-chainxjs)

@@ -1,8 +1,8 @@
-Polkadot DAPP Development Document
+# Polkadot DAPP Development Document
 
-# Web dApp Development
+## Web dApp Development
 
-## PolkadotWeb3JS API
+### PolkadotWeb3JS API
 
 [https://polkadot.js.org/](https://polkadot.js.org/)
 

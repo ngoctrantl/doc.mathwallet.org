@@ -1,16 +1,16 @@
-Cosmos DAPP Development Document
+# Cosmos DAPP Development Document
 
-# Web dApp Development
+## Web dApp Development
 
-## Swagger User Guide (Data Query and Post)
+### Swagger User Guide (Data Query and Post)
 
 [https://cosmos.network/rpc/](https://cosmos.network/rpc/)
 
-## MathExtension API (Sign Transactions)
+### MathExtension API (Sign Transactions)
 
 [https://github.com/mathwallet/math-cosmosjs](https://github.com/mathwallet/math-cosmosjs)
 
-### dApps using dAPI
+#### dApps using dAPI
 
 [Cosmos Staking Tool](https://m.medishares.net/cosmos/delegate)
 

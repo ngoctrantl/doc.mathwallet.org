@@ -1,18 +1,18 @@
-Toles DAPP 开发文档
+# Toles DAPP 开发文档
 
-# H5 DAPP 开发
+## H5 DAPP 开发
 
-## Scatter API（推荐）
+### Scatter API（推荐）
 
 麦子钱包兼容基于 Scatter 接口开发的 DAPP，您只需要做一些移动端适配即可
 
 Scatter接口的优点是通用性好，除了移动端在麦子钱包内直接使用，桌面端可以配合 [MathWallet Chrome浏览器](https://chrome.google.com/webstore/detail/math-wallet/afbcbjpbpfadlkmhmclhkeeodmamcflc) 使用，一套代码即可，另外开发时在桌面端比较容易调试。
 
-### Scatter API 官方文档
+#### Scatter API 官方文档
 
 [https://get-scatter.com/docs/setting-up-for-web-apps](https://get-scatter.com/docs/setting-up-for-web-apps)
 
-### Scatter API 开发示例
+#### Scatter API 开发示例
 
 MediShares 团队开发的 Scatter API 开发示例
 
@@ -22,7 +22,7 @@ MediShares 团队开发的 Scatter API 开发示例
 
 [https://github.com/ericfish/EOS-Dev-Book](https://github.com/ericfish/EOS-Dev-Book)
 
-### Scatter API 相关问题
+#### Scatter API 相关问题
 
 Q: 钱包和PC端引入的 scatter.js 文件需要区分一下吗？
 

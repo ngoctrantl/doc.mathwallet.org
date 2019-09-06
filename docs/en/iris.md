@@ -1,16 +1,16 @@
-IRISnet DAPP Development Document
+# IRISnet DAPP Development Document
 
-# Web dApp Development
+## Web dApp Development
 
-## IRISLCD User Guide (Data Query and Post)
+### IRISLCD User Guide (Data Query and Post)
 
 [https://www.irisnet.org/docs/light-client/](https://www.irisnet.org/docs/light-client/)
 
-## MathExtension API (Sign Transactions)
+### MathExtension API (Sign Transactions)
 
 [https://github.com/mathwallet/math-irisjs](https://github.com/mathwallet/math-irisjs)
 
-### dApps using dAPI
+#### dApps using dAPI
 
 [IRIS Staking Tool](https://m.medishares.net/iris/delegate)
 

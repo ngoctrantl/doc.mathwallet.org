@@ -1,16 +1,16 @@
-Binance DAPP Development Document
+# Binance DAPP Development Document
 
-# Web dApp Development
+## Web dApp Development
 
-## HTTP API User Guide (Data Query and Post)
+### HTTP API User Guide (Data Query and Post)
 
 [https://docs.binance.org/api-reference/dex-api/paths.html](https://docs.binance.org/api-reference/dex-api/paths.html)
 
-## MathExtension API (Sign Transactions)
+### MathExtension API (Sign Transactions)
 
 [https://github.com/mathwallet/math-binancechainjs](https://github.com/mathwallet/math-binancechainjs)
 
-### dApps using dAPI
+#### dApps using dAPI
 
 Demo & Sample Code：
 
@@ -18,7 +18,7 @@ Demo & Sample Code：
 
 [https://github.com/mathwallet/math-binancechainjs/tree/master/sample](https://github.com/mathwallet/math-binancechainjs/tree/master/sample)
 
-## WalletConnect Protocol
+### WalletConnect Protocol
 
 WalletConnect is an open protocol for connecting desktop Dapps to mobile Wallets using end-to-end encryption by scanning a QR code.
 

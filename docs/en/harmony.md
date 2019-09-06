@@ -1,8 +1,8 @@
-Harmony DAPP Development Document
+# Harmony DAPP Development Document
 
-# Web dApp Development
+## Web dApp Development
 
-## Harmony-SDK
+### Harmony-SDK
 
 [https://github.com/FireStack-Lab/Harmony-sdk-core](https://github.com/FireStack-Lab/Harmony-sdk-core)
 

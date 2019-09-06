@@ -1,12 +1,12 @@
-NEO DAPP 开发文档
+# NEO DAPP 开发文档
 
-# H5 DAPP 开发
+## H5 DAPP 开发
 
-## math-js-sdk
+### math-js-sdk
 
 麦子钱包的 math-js-sdk 支持钱包内网页发起 NEO 支付请求
 
-### math-js-sdk 文档
+#### math-js-sdk 文档
 
 [https://github.com/mathwallet/math-js-sdk](https://github.com/mathwallet/math-js-sdk)
 

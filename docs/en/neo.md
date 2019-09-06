@@ -1,12 +1,12 @@
-NEO DAPP Development Document
+# NEO DAPP Development Document
 
-# Web dApp Development
+## Web dApp Development
 
-## math-js-sdk
+### math-js-sdk
 
 You can use math-js-sdk to initial NEO payment request with Math Wallet.
 
-### math-js-sdk document
+#### math-js-sdk document
 
 [https://github.com/mathwallet/math-js-sdk](https://github.com/mathwallet/math-js-sdk)
 
