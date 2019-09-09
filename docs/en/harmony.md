@@ -10,3 +10,6 @@ Sample (Sign Transactions using Harmony Web3 API)
 
 [https://github.com/mathwallet/math-harmonyjs](https://github.com/mathwallet/math-harmonyjs)
 
+Open source web wallet
+
+[https://github.com/mathwallet/math-harmony-web-wallet](https://github.com/mathwallet/math-harmony-web-wallet)
