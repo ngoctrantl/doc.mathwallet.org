@@ -4,7 +4,7 @@
 
 ### Harmony-SDK
 
-[https://github.com/FireStack-Lab/Harmony-sdk-core](https://github.com/FireStack-Lab/Harmony-sdk-core)
+[https://github.com/harmony-one/sdk](https://github.com/harmony-one/sdk)
 
 使用 Harmony Web3 API 进行支付的签名操作的 Sample
 

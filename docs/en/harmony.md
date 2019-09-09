@@ -4,7 +4,7 @@
 
 ### Harmony-SDK
 
-[https://github.com/FireStack-Lab/Harmony-sdk-core](https://github.com/FireStack-Lab/Harmony-sdk-core)
+[https://github.com/harmony-one/sdk](https://github.com/harmony-one/sdk)
 
 Sample (Sign Transactions using Harmony Web3 API)
 
