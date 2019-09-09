@@ -6,6 +6,8 @@ Please Click 'English' and choose one chain to start your dApp development.
 
 Also please remember to submit your dApp to us when it is ready: [https://m.maiziqianbao.net/submit/dapp](https://m.maiziqianbao.net/submit/dapp)
 
+Any questions, please contact labs@mathwallet.org
+
 ---
 
 # 从这里开始
@@ -15,6 +17,8 @@ Also please remember to submit your dApp to us when it is ready: [https://m.maiz
 请点击【中文】菜单，然后选择你正在开发的公链，查看详细文档。
 
 如果您的 DAPP 已经开发完成，请通过这个链接提交给我们：[https://m.maiziqianbao.net/submit/dapp](https://m.maiziqianbao.net/submit/dapp)
+
+有问题，欢迎邮件联系 labs@mathwallet.org
 
 ---
 
