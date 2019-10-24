@@ -30,6 +30,7 @@ pages:
         - BOS: en/bos.md
         - Telos: en/telos.md
         - NEO: en/neo.md
+        - VeChain: en/vechain.md
         - More: en/more.md
     - 中文:
         - BTC: cn/btc.md
@@ -49,6 +50,7 @@ pages:
         - BOS: cn/bos.md
         - Telos: cn/telos.md
         - NEO: cn/neo.md
+        - VeChain: cn/vechain.md
         - 更多问题: cn/more.md
 
 plugins:
