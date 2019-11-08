@@ -2,7 +2,11 @@
 
 ## Web dApp Development
 
-### math-js-sdk
+### Chrome Extension Wallet API
+
+[https://github.com/mathwallet/math-bitcoinjs](https://github.com/mathwallet/math-bitcoinjs)
+
+### App Wallet API
 
 You can use math-js-sdk to initial BTC payment request with Math Wallet.
 

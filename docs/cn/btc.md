@@ -2,7 +2,13 @@
 
 ## H5 DAPP 开发
 
-### math-js-sdk
+### 浏览器插件端 API
+
+[https://github.com/mathwallet/math-bitcoinjs](https://github.com/mathwallet/math-bitcoinjs)
+
+### APP 端 API
+
+math-js-sdk
 
 麦子钱包的 math-js-sdk 支持钱包内网页发起 BTC 支付请求
 
